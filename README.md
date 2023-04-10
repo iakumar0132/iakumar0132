@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iakumar0132&label=Profile%20views&color=0e75b6&style=flat" alt="iakumar0132" /> </p>
 
-- 🌱 I’m currently learning **ReactJs,NodeJs,Data Structures And Algorithm**
+- 🌱 I’m proficient in **ReactJs,NodeJs,Data Structures And Algorithm**
 
 - 📫 How to reach me **iakumar0132@gmail.com**
 
